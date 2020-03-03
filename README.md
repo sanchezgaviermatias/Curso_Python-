@@ -8,4 +8,4 @@ En este curso la ídea que veas todos los temas que necesita un Data science al 
 
 Estos Códigos son el resultado de una serie de vídeos, podes seguirla por aca 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6jVtazQ1d8Q&list=RD6jVtazQ1d8Q&start_radio=1 "Video Title")
+[![IMAGE ALT TEXT](https://www.interactivechaos.com/sites/default/files/inline-images/imagen_presentacion_tutorial.png)](https://www.youtube.com/watch?v=6jVtazQ1d8Q&list=RD6jVtazQ1d8Q&start_radio=1 "Python Tutorial")
